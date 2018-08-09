@@ -1,6 +1,8 @@
-theme: jekyll-theme-cayman
 title: StormIWeb
 description: Secure and Private Instant Messaging & BBS Web Server
+google_analytics: stormiweb
 show_downloads: true
-github:
-  zip_url: http://stormiweb.com/storm_im_bbs_setup4.1.exe
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
